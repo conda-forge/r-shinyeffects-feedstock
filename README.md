@@ -1,11 +1,11 @@
-About r-shinyeffects
-====================
+About r-shinyeffects-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinyeffects-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/DivadNojnarg/shinyEffects, https://divadnojnarg.github.io/shinyEffects/
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinyeffects-feedstock/blob/main/LICENSE.txt)
 
 Summary: Add fancy CSS effects to your 'shinydashboards' or 'shiny' apps. 100% compatible with 'shinydashboardPlus' and 'bs4Dash'.
 
