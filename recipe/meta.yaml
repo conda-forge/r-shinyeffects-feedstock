@@ -1,6 +1,5 @@
 {% set version = "0.2.0" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-shinyeffects
@@ -13,8 +12,7 @@ source:
   sha256: 7160fd7ebf7b551af829ab84f4a7750c502ffedc6ff28438db67e60a13c84aaa
 
 build:
-  merge_build_host: true  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
